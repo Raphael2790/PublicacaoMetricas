@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PublicacaoMetricas", "PublicacaoMetricas\PublicacaoMetricas.csproj", "{C961471E-8F2C-4C3C-948D-F59DD917DF01}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C961471E-8F2C-4C3C-948D-F59DD917DF01}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C961471E-8F2C-4C3C-948D-F59DD917DF01}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C961471E-8F2C-4C3C-948D-F59DD917DF01}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C961471E-8F2C-4C3C-948D-F59DD917DF01}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
